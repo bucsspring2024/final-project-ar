@@ -7,13 +7,13 @@
 
 ## Team Members
 
-<< List team member names >>
+<< Ava Rongo >>
 
 ***
 
 ## Project Description
 
-<< Give an overview of your project >>
+<< For my final, I will be coding an adventure game that is level based. There will be at least 3 levels and a small storyline to follow. >>
 
 ***    
 
@@ -31,11 +31,14 @@
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. << Start Menu >>
+2. << Different Levels >>
+3. << Moveable Character >>
+4. << Obstacles >>
+5. << Gems to collect >>
+6. << Door to lead to next level >>
+7. << Panels in the beginning to explain story >>
+8. << Panels at the end when game finished >>
 
 ### Classes
 
