@@ -1,5 +1,4 @@
 import pygame
-
 class Cactus(pygame.sprite.Sprite):
     def __init__(self, width, height, x, y, speed):
         super().__init__()

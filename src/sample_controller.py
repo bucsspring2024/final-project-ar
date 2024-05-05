@@ -59,7 +59,7 @@ def main():
                 all_sprites.add(cactus)
 
         # Update
-        all_sprites.update()
+        all_sprites.update(GROUND_HEIGHT)
 
         # Collision check
         if pygame.sprite.spritecollide(dino, cactus_group, False):
